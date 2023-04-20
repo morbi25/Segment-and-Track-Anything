@@ -1,0 +1,6 @@
+[submodule "aot-benchmark"]
+	path = aot
+	url = https://github.com/morbi25/aot-benchmark.git
+[submodule "segment-anything"]
+	path = sam
+	url = https://github.com/morbi25/segment-anything.git
